@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/mediawiki-ext-align",
+  "name": "zmarket/mediawiki-ext-align",
   "type": "mediawiki-extension",
   "description": "MediaWiki text align extension.",
   "license": "MIT",
@@ -23,13 +23,13 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/mediawiki-ext-align/issues",
-    "source": "https://github.com/cmfstore/mediawiki-ext-align"
+    "issues": "https://github.com/zbox/mediawiki-ext-align/issues",
+    "source": "https://github.com/zbox/mediawiki-ext-align"
   },
   "require": {
     "php": ">=7.2",
     "composer/installers": "^1.0.1",
-    "cmfstore/mediawiki-ext-kernel": "*"
+    "zmarket/mediawiki-ext-kernel": "*"
   },
   "autoload": {
     "classmap": [
